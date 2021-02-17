@@ -1,0 +1,17 @@
+## RUN PROGRAMS BASED ON INPUTS GIVEN IN THE INPUT FILES ##
+
+### CHEATSHEET ###
+
+// C++
+
+$  g++ -o Test main.cpp
+$ ./Test < input.txt
+
+// C
+
+$  gcc test.c
+$  ./a.out < input.txt
+
+// Python
+
+$  python3 main.py < input.txt
