@@ -1,6 +1,4 @@
-# token
-
-online compiler
+# Token - **Online Compiler**
 
 ## Install Docker
 
