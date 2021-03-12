@@ -15,3 +15,8 @@ $  ./a.out < input.txt
 // Python
 
 $  python3 main.py < input.txt
+
+// Java
+
+$  javac Main.java
+$  java Main < input.txt
