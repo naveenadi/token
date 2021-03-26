@@ -1,0 +1,30 @@
+.container{
+    width: 100%;
+    height: auto;
+    background-color: #000;
+    padding: 11px;
+    flex-direction: column;
+}
+
+.titleContainer{
+    margin-left: 30px;
+    padding: 5px;
+    display: block;
+    position: relative;
+}
+
+.headTitle{
+    margin: 0;
+    color: #fff;
+    font-weight: bold;
+    letter-spacing: 2px;
+    display: inline-block;
+    position: relative;
+}
+.titleContainer .gitLogo{
+    margin: 0;
+    display: inline-block;
+    position: absolute;
+    right: 20px;
+    cursor: pointer;
+}

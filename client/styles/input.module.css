@@ -1,0 +1,42 @@
+
+.container{
+    width: 45%;
+    height: 180px;
+    border: 1px solid;
+    margin-left: 20px;
+    margin-top: 10px;
+    float: left;
+    border-radius: 10px 10px;
+    padding: 7px 7px;
+}
+
+.heading{
+    width: 100%;
+    height: auto;
+    padding: 5px 5px;
+}
+
+.headtitle{
+    color: #1e1e1e;
+    font-size: 13px;
+    font-weight: 700;
+    margin: 0;
+}
+
+.inputfield:hover{
+    cursor: text;
+}
+
+.inputfield:focus{
+    outline: none;
+}
+
+.inputfield{
+    max-height: 120px;
+    padding: 8px 8px;
+    overflow-y: scroll;
+}
+.inputfield::-webkit-scrollbar {
+    width: 10px;
+  }
+  

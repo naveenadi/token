@@ -1,0 +1,43 @@
+.container{
+    width: 45%;
+    height: 250px;
+    border: 1px solid #fff;
+    margin-left: 20px;
+    margin-top: 20px;
+    float: left;
+    border-radius: 10px 10px;
+    background-color: #1e1e1e;
+    padding: 7px 7px;
+}
+
+.heading{
+    width: 100%;
+    height: auto;
+    padding: 5px 5px;
+}
+
+.headtitle{
+    color: #fff;
+    font-size: 13px;
+    font-weight: 700;
+    margin: 0;
+}
+
+.outputfield:hover{
+    cursor: pointer;
+}
+.outputfield:focus{
+    outline: none;
+    user-select: none;
+}
+.outputfield{
+    font-weight: 700;
+    color: red;
+    padding: 7px 7px;
+    max-height: 180px;
+    overflow-y: scroll;
+}
+
+.outputfield::-webkit-scrollbar {
+    width: 10px;
+  }
