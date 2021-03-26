@@ -1,0 +1,11 @@
+.editorContainer{
+    width: 50%;
+    margin-top: 10px;
+    min-height: 400px;
+    float: left;
+}
+
+.editorArea{
+    height: 500px;
+    margin-left: 40px;
+}

@@ -1,0 +1,10 @@
+
+.selectionContainer{
+    display: flex;
+    padding: 7px 7px;
+    margin-left: 35px;
+}
+
+.selectionContainer select{
+    padding: 5px 5px;
+}
